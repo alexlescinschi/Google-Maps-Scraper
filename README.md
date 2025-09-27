@@ -173,6 +173,7 @@ Acest proiect este licențiat sub MIT License - vezi fișierul [LICENSE](LICENSE
 
 ---
 
+
 **⭐ Dacă proiectul te-a ajutat, lasă un star! Îți mulțumim! 🚀**
 
 *Creat cu ❤️ pentru extragerea eficientă de date din Google Maps Business.*
