@@ -167,7 +167,7 @@ Acest proiect este licențiat sub MIT License - vezi fișierul [LICENSE](LICENSE
 ## 📞 Contact & Support
 
 - **👨‍💻 Autor**: Alex Lescinschi  
-- **📧 Email**: [alex@example.com](mailto:alex@example.com)
+- **📧 Email**: [alex@lescinschi.art](mailto:alex@lescinschi.art)
 - **🐛 Issues**: [GitHub Issues](https://github.com/alexlescinschi/gm-wind/issues)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/alexlescinschi/gm-wind/discussions)
 
